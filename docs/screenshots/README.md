@@ -1,0 +1,1 @@
+![alt text](<kitchen dashboard.jpg>) ![alt text](<my order student dashboard.jpg>) ![alt text](<online payment.jpg>) ![alt text](<order placed.jpg>) ![alt text](<orders kitchen dashboard.jpg>) ![alt text](sales.jpg) ![alt text](<student dashboard.jpg>) ![alt text](dashboard.jpg) ![alt text](history.jpg)
