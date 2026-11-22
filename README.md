@@ -117,8 +117,8 @@ The application uses the same origin for the frontend and API when deployed, so 
 
 ### Deployment links
 
-- **GitHub Repository:** `ADD_YOUR_GITHUB_REPOSITORY_URL`
-- **Live Application:** `ADD_YOUR_RENDER_SERVICE_URL_AFTER_SUCCESSFUL_DEPLOYMENT`
+- **GitHub Repository:** `https://github.com/Deepikat-rgb/SWYNEX-Complete-Deployed-Application`
+- **Live Application:** `https://deepikat-rgb.github.io/SWYNEX-Complete-Deployed-Application/`
 
 Replace both placeholders with your real URLs before submission. Do not claim deployment is complete until the live URL opens successfully in a private/incognito browser window.
 
@@ -154,4 +154,4 @@ Add screenshots captured from your own running application to `docs/screenshots/
 ## Internship
 
 **Organization:** SWYNEX Technologies  
-**Task:** Task 4 – Complete Deployed Application
+**Task:** Task 4 – SWYNEX Complete Deployed Application
